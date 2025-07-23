@@ -2,7 +2,7 @@ Disables USB power saving to prevent crashes and BSODs on AMD-based systems.
 No more random disconnects, blue screens, or USB instability.
 
 > 💡 Inspired by [ThioJoe's original script](https://gist.github.com/ThioJoe/3ee8fb39eecd34495b228ac63bbac9e3#file-disableusbpowermanagement-ps1-L17) <br>
-> 🧩 Extended with better device searching method, logging, admin auto-elevation, safe checks, and reboot prompt.
+> 🧩 Extended with better device searching method, logging and some other features.
 
 ## ⚠️ Why this exists
 
