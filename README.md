@@ -10,7 +10,7 @@ No more random disconnects, blue screens, or USB instability.
 
 ## ⚠️ Why this exists
 
-Some AMD-based systems (especially with Ryzen CPUs and chipsets like B550/X570) suffer from:
+Some AMD-based systems (especially with Ryzen CPUs and chipsets like B550/X570 and newer) suffer from:
 - USB dropouts
 - Blue screens of death (BSOD)
 - Device instability
