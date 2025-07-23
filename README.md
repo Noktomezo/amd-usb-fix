@@ -20,22 +20,17 @@ due to aggressive **USB power saving** enabled by default in Windows.
 This script finds all USB devices and disables the setting that allows Windows to turn them off to save power.
 
 ## ✨ Features
-
-- 🛡️ Automatically elevates to Administrator if needed
-- 🔍 Detects USB devices via WMI
+- 🔍 Detects USB controller devices via WMI
 - ⚙️ Skips devices that are already patched
-- 🧠 Smart logging with clear color-coded output
-- 🔄 Asks for reboot after changes are made
-- 💥 Fixes common BSOD and USB disconnect issues on AMD systems
+- 🧠 Fancy logging with clear color-coded output
 
 ## ▶️ How to use
-
 1. **Download and extract [archive](https://github.com/Noktomezo/amd-usb-fix/archive/refs/heads/main.zip) or clone via [git](https://git-scm.com/downloads)**
 ```bash
 $ git clone --depth 1 https://github.com/Noktomezo/amd-usb-fix.git
 ```
 
-2. **Run `run.bat` with administrator privileges**
+2. **Launch `run.bat` with administrator privileges**
 3. **Follow the prompt to reboot** (if changes were applied)
 
 ## 📄 License
