@@ -2,7 +2,7 @@
 	<img src="assets/thumbnail.svg" alt="thumbnail"/>
 </div>
 
-Disables USB power saving to prevent crashes and BSODs on AMD-based systems.
+Disables power saving options on all USB controllers to prevent crashes and BSODs on AMD-based systems.
 No more random disconnects, blue screens, or USB instability.
 
 > 💡 Inspired by [ThioJoe's original script](https://gist.github.com/ThioJoe/3ee8fb39eecd34495b228ac63bbac9e3#file-disableusbpowermanagement-ps1-L17) <br>
