@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="assets/thumbnail.svg" alt="thumbnail"/>
+</div>
+
 Disables USB power saving to prevent crashes and BSODs on AMD-based systems.
 No more random disconnects, blue screens, or USB instability.
 
@@ -10,7 +14,8 @@ Some AMD-based systems (especially with Ryzen CPUs and chipsets like B550/X570) 
 - USB dropouts
 - Blue screens of death (BSOD)
 - Device instability
-Due to aggressive **USB power saving** enabled by default in Windows.
+
+due to aggressive **USB power saving** enabled by default in Windows.
 
 This script finds all USB devices and disables the setting that allows Windows to turn them off to save power.
 
@@ -39,5 +44,5 @@ $ git clone --depth 1 https://github.com/Noktomezo/amd-usb-fix.git
 
 ## 🙏 Credits
 
-Original idea and base script by [ThioJoe](https://gist.github.com/ThioJoe/3ee8fb39eecd34495b228ac63bbac9e3)
+Original idea and base script by [ThioJoe](https://gist.github.com/ThioJoe/3ee8fb39eecd34495b228ac63bbac9e3) <br>
 This version rewritten and enhanced by [Noktomezo](https://github.com/Noktomezo)
