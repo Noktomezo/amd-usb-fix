@@ -44,5 +44,4 @@ $ git clone --depth 1 https://github.com/Noktomezo/amd-usb-fix.git
 
 ## 🙏 Credits
 
-Original idea and base script by [ThioJoe](https://gist.github.com/ThioJoe/3ee8fb39eecd34495b228ac63bbac9e3) <br>
-This version rewritten and enhanced by [Noktomezo](https://github.com/Noktomezo)
+Original idea and base script by [ThioJoe](https://gist.github.com/ThioJoe/3ee8fb39eecd34495b228ac63bbac9e3)
