@@ -3,6 +3,6 @@
 powershell ^
   -ExecutionPolicy Bypass ^
   -NoProfile ^
-  "& '%~dp0disable-usb-power-saving.ps1'"
+  "& '%~dp0DisableUSBPowerSaving.ps1'"
 
 pause
