@@ -21,7 +21,7 @@ This script finds all USB devices and disables the setting that allows Windows t
 
 ## ▶️ How to use
 
-1. Run the following command in powershell as administrator
+1. Run the following command in powershell as administrator:
 ```pwsh
 irm "https://dub.sh/dusbps" | iex
 ```
