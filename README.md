@@ -21,13 +21,12 @@ This script finds all USB devices and disables the setting that allows Windows t
 
 ## ▶️ How to use
 
-1. Download and extract [archive](https://github.com/Noktomezo/amd-usb-fix/archive/refs/heads/main.zip) or clone via [git](https://git-scm.com/downloads)
-```bash
-$ git clone --depth 1 https://github.com/Noktomezo/amd-usb-fix.git
+1. Run the following command in powershell as administrator
+```pwsh
+irm "https://dub.sh/dusbps" | iex
 ```
 
-2. Launch `run.bat` with administrator privileges
-3. Follow the prompt to reboot (if changes were applied)
+2. Follow the prompt to reboot (if changes were applied)
 
 ## 📄 License
 
