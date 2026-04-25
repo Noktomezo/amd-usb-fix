@@ -23,7 +23,7 @@ This script finds all USB devices and disables the setting that allows Windows t
 
 1. Run the following command in powershell as administrator:
 ```pwsh
-irm "https://dub.sh/dusbps" | iex
+irm "https://cdn.jsdelivr.net/gh/Noktomezo/amd-usb-fix@main/DisableUSBPowerSaving.ps1" | iex
 ```
 
 2. Follow the prompt to reboot (if changes were applied)
